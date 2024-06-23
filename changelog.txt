@@ -1,0 +1,16 @@
+// 06/23/2024
+- Added chunk grid
+=============
+- Added camera
+- Added FPS counter
+- Added Tile.updateTile() method
+- Added Tile.shadow
+
+// 06/22/2024
+- Created main.js
+- Added tick counter
+- Added tile
+	+ Tile
+	+ TileStone
+	+ TileDirt
+- Added chunk
